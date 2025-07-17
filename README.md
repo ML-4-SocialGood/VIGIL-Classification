@@ -7,7 +7,9 @@
 * 2022 - DomainMix - [Dynamic Domain Generalization](https://arxiv.org/abs/2205.13913)
 * 2022 - EFDMix - [Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization](https://arxiv.org/abs/2203.07740)
 * 2023 - RISE - [A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_A_Sentence_Speaks_a_Thousand_Images_Domain_Generalization_through_Distilling_ICCV_2023_paper.html)
-* 2024 - SSPL -  [Symmetric Self-Paced Learning for Domain Generalization](https://ojs.aaai.org/index.php/AAAI/article/view/29639)
+* 2024 - AAAI - SSPL -  [Symmetric Self-Paced Learning for Domain Generalization](https://ojs.aaai.org/index.php/AAAI/article/view/29639)
+* 2024 - IJCV - CLIP-Adapter - [CLIP-Adapter: Better Vision-Language Models with Feature Adapters](https://link.springer.com/article/10.1007/s11263-023-01891-x)
+* 2025 - IJCAI - BOLD
 
 # Datasets
 * Digits
